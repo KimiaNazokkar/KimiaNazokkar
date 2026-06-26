@@ -30,7 +30,7 @@ Repository:
 
 - Advanced SQL
 - Machine Learning
-- Data Engineering
+- Cloud Data Engineering
 
 ## Connect
 
