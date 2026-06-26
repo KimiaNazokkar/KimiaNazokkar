@@ -1,6 +1,6 @@
 # Hi, I'm Kimia Nazokkar 
 
-Infrastructure Analytics Engineer with 10+ years of experience spanning water infrastructure engineering, research, and data analytics. I design governed analytical pipelines and decision-support dashboards that transform complex engineering data into actionable insights.
+Infrastructure Data & Analytics Engineer with 10+ years of experience across water infrastructure engineering, hydraulic research, and applied analytics. I build governed Python data pipelines and executive Tableau dashboards that transform complex infrastructure data into actionable insights.
 
 ## About Me
 
@@ -11,6 +11,8 @@ Infrastructure Analytics Engineer with 10+ years of experience spanning water in
 - 🏗 Infrastructure Analytics • Data Engineering • ETL • Data Governance
 
 ## Featured Project
+
+Public portfolio demonstrating an end-to-end analytics workflow from raw public procurement data to executive dashboards.
 
 ### Metro Vancouver Procurement Analytics
 
