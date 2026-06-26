@@ -1,6 +1,6 @@
 # Hi, I'm Kimia Nazokkar 
 
-Infrastructure Data & Analytics Engineer with 10+ years of experience across water infrastructure engineering, hydraulic research, and applied analytics. I build governed Python data pipelines and executive Tableau dashboards that transform complex infrastructure data into actionable insights.
+Infrastructure Data & Analytics Engineer with 10+ years of experience across civil engineering, water infrastructure, and analytics. I design governed Python data pipelines and executive Tableau dashboards that transform complex public-sector data into actionable insights.
 
 ## About Me
 
