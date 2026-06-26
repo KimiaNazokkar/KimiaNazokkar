@@ -23,7 +23,7 @@ An end-to-end analytics portfolio project featuring a governed Python ETL pipeli
 - Vendor Normalization
 - Tableau Dashboards
 
-Repository:[Metro Vancouver Procurement Analytics](https://github.com/KimiaNazokkar/metro-vancouver-procurement-analytics)
+### [Metro Vancouver Procurement Analytics](https://github.com/KimiaNazokkar/metro-vancouver-procurement-analytics)
 Public portfolio demonstrating an end-to-end analytics workflow from raw public procurement data to executive dashboards.
 
 ## Currently Learning
