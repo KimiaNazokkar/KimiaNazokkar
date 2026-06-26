@@ -12,19 +12,14 @@ Infrastructure Data & Analytics Engineer with 10+ years of experience across wat
 
 ## Featured Project
 
+### [Metro Vancouver Procurement Analytics](https://github.com/KimiaNazokkar/metro-vancouver-procurement-analytics)
+
 Public portfolio demonstrating an end-to-end analytics workflow from raw public procurement data to executive dashboards.
-
-### Metro Vancouver Procurement Analytics
-
-An end-to-end analytics portfolio project featuring a governed Python ETL pipeline, vendor entity resolution, data quality controls, and executive Tableau dashboards built from Metro Vancouver's public procurement records.
 
 - Python ETL
 - Data Quality Governance
 - Vendor Normalization
 - Tableau Dashboards
-
-### [Metro Vancouver Procurement Analytics](https://github.com/KimiaNazokkar/metro-vancouver-procurement-analytics)
-Public portfolio demonstrating an end-to-end analytics workflow from raw public procurement data to executive dashboards.
 
 ## Currently Learning
 
