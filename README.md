@@ -24,9 +24,9 @@ Public portfolio demonstrating an end-to-end analytics workflow from raw public 
 
 ## Currently Learning
 
-- Advanced SQL
 - Machine Learning
 - Cloud Data Engineering
+- dbt / SQL workflow automation
 
 ## Connect
 
