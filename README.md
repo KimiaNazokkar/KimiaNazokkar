@@ -6,7 +6,6 @@ I design governed Python data pipelines and executive Tableau dashboards that tr
 ## About Me
 
 - 📍 Los Angeles, California
-- 🇨🇦 Canadian Citizen (TN Visa Eligible)
 - 🎓 Master of Engineering Leadership (Integrated Water Management), UBC
 - 💻 Python • SQL • Tableau • Excel
 - 🏗 Infrastructure Analytics • Data Engineering • ETL • Data Governance
